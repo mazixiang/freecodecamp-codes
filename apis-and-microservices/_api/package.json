@@ -5,6 +5,6 @@
   "license": "GLWTPL",
   "version": "0.1.0",
   "dependencies": {
-    "moment": "2.10.2"
+    "moment": "~2.10.2"
   }
 }
