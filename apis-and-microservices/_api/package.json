@@ -1,5 +1,6 @@
 {
   "author": "mazixiang",
   "description": "A test project",
-  "keywords": ["freecodecamp", "api", "microservice"]
+  "keywords": ["freecodecamp", "api", "microservice"],
+  "license": "GLWTPL"
 }
