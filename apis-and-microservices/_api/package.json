@@ -3,5 +3,8 @@
   "description": "A test project",
   "keywords": ["freecodecamp", "api", "microservice"],
   "license": "GLWTPL",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "dependencies": {
+    "moment": "2.14.0"
+  }
 }
