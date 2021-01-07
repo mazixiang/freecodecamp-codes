@@ -2,5 +2,6 @@
   "author": "mazixiang",
   "description": "A test project",
   "keywords": ["freecodecamp", "api", "microservice"],
-  "license": "GLWTPL"
+  "license": "GLWTPL",
+  "version": "0.1.0"
 }
